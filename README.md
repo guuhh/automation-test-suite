@@ -16,3 +16,11 @@ Step-by-step to run the tests:
 6. still inside of the ~/automation-test-suite, execute the comand "npx cypress open" to open the cypress UI
 7. execute the scenarios selecting the files on UI window or executing all files as according the image below.
 
+
+
+Headless Mode:
+1. at ~/automation-test-suite folder
+2. execute the alias command "**npm run cy:run**", thus all spec files will be executed
+3. if you prefer to choose a specif file, execute as "**npm run cy:run -- --record --spec "cypress/integration/[my_file]_spec.js**"
+
+
