@@ -1,3 +1,8 @@
 {
-"baseUrl":"https://forms.liferay.com/web/forms/shared/-/form/122548"
+"screenshotOnRunFilure": true,    
+"baseUrl":"https://forms.liferay.com/web/forms/shared/-/form/122548",
+"retrieves": {
+   "runMode":2,
+    "openMode":0
+   }
 }
